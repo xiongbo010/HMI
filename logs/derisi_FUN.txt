@@ -1,0 +1,990 @@
+nohup: ignoring input
+number of feature and labels: 63 500
+499 710
+149 213
+0.6995320445655642 6.18053350004823 68.92595437682097
+Epoch:5	TrainLoss:0.707	ValLoss:0.558	mAP:0.160	CV:0.350
+0.35020837681079003 3.613240166126843 48.34981987321118
+Epoch:10	TrainLoss:0.355	ValLoss:0.381	mAP:0.192	CV:0.220
+EarlyStopping counter: 1 out of 20
+0.35306708832932693 2.313254771287794 30.252371324248593
+Epoch:15	TrainLoss:0.356	ValLoss:0.362	mAP:0.234	CV:0.151
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.49730032109179934 1.47234797738781 18.473742641128435
+Epoch:20	TrainLoss:0.499	ValLoss:0.350	mAP:0.264	CV:0.179
+0.47008856002175986 0.9093638978195628 10.647287189935453
+Epoch:25	TrainLoss:0.471	ValLoss:0.328	mAP:0.274	CV:0.187
+0.2890590657925336 0.7940385159662826 5.603344737648706
+Epoch:30	TrainLoss:0.290	ValLoss:0.297	mAP:0.306	CV:0.163
+0.36539066280397436 0.5552423220342068 2.7828593593696964
+Epoch:35	TrainLoss:0.366	ValLoss:0.267	mAP:0.327	CV:0.171
+0.21658993655617112 0.3158896501565958 1.3727343025175383
+Epoch:40	TrainLoss:0.217	ValLoss:0.227	mAP:0.331	CV:0.164
+0.18695425346479003 0.18203375061362534 0.6725882256966226
+Epoch:45	TrainLoss:0.187	ValLoss:0.199	mAP:0.340	CV:0.155
+0.18134336458030817 0.12363360592507155 0.3199249067272056
+Epoch:50	TrainLoss:0.181	ValLoss:0.187	mAP:0.348	CV:0.143
+EarlyStopping counter: 1 out of 20
+0.17079041759622135 0.0984612402952628 0.14805280966062306
+Epoch:55	TrainLoss:0.171	ValLoss:0.178	mAP:0.351	CV:0.133
+EarlyStopping counter: 1 out of 20
+0.16383197153978657 0.0862908586523514 0.06719653593121323
+Epoch:60	TrainLoss:0.164	ValLoss:0.175	mAP:0.354	CV:0.119
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+0.16846834638534408 0.07746102696721247 0.029890966035687926
+Epoch:65	TrainLoss:0.168	ValLoss:0.173	mAP:0.357	CV:0.115
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 1 out of 20
+0.15196168086098677 0.07230597419174246 0.012587211863647646
+Epoch:70	TrainLoss:0.152	ValLoss:0.173	mAP:0.358	CV:0.108
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.17419424720932863 0.07043002079120672 0.0049601555500588
+Epoch:75	TrainLoss:0.174	ValLoss:0.172	mAP:0.360	CV:0.103
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.1595737254236692 0.06850365893208435 0.002916916841356282
+Epoch:80	TrainLoss:0.160	ValLoss:0.172	mAP:0.361	CV:0.107
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.1552700364401292 0.06698687442904203 0.0022067298520286574
+Epoch:85	TrainLoss:0.155	ValLoss:0.170	mAP:0.363	CV:0.112
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+0.18002757563155666 0.06591696041707536 0.0018217780859219731
+Epoch:90	TrainLoss:0.180	ValLoss:0.172	mAP:0.361	CV:0.277
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+0.2127853484167751 0.0652481631998075 0.0014253874314585848
+Epoch:95	TrainLoss:0.213	ValLoss:0.170	mAP:0.357	CV:0.301
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+0.17609010245929568 0.06544339700962688 0.0010684879803021343
+Epoch:100	TrainLoss:0.176	ValLoss:0.170	mAP:0.362	CV:0.210
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+0.17790175387795937 0.06469864308693268 0.0008062572557967283
+Epoch:105	TrainLoss:0.178	ValLoss:0.171	mAP:0.349	CV:0.205
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+0.16955678903165547 0.06481083254413103 0.0005188549204026269
+Epoch:110	TrainLoss:0.170	ValLoss:0.172	mAP:0.347	CV:0.336
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+EarlyStopping counter: 20 out of 20
+64 0.3655747386875913 tensor(0.0956, device='cuda:1')
+0.6625529630961903 6.335535329832683 71.66664332240401
+Epoch:5	TrainLoss:0.670	ValLoss:0.542	mAP:0.145	CV:0.395
+0.35271783411773605 3.5680519350722997 49.53033434176294
+Epoch:10	TrainLoss:0.358	ValLoss:0.378	mAP:0.199	CV:0.184
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.34153282234911275 2.3028282552180395 30.664070342061148
+Epoch:15	TrainLoss:0.345	ValLoss:0.361	mAP:0.270	CV:0.133
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.33120762628622946 1.473692226574444 18.77082466037648
+Epoch:20	TrainLoss:0.333	ValLoss:0.364	mAP:0.264	CV:0.172
+EarlyStopping counter: 1 out of 20
+0.3257734685040647 0.9220866098136585 10.801994876558457
+Epoch:25	TrainLoss:0.327	ValLoss:0.330	mAP:0.263	CV:0.132
+0.28154601744420915 0.786447187320929 5.6730957429523
+Epoch:30	TrainLoss:0.282	ValLoss:0.301	mAP:0.301	CV:0.164
+0.2576609888445515 0.556761103087284 2.8109627781646562
+Epoch:35	TrainLoss:0.258	ValLoss:0.263	mAP:0.317	CV:0.172
+0.21269713240472699 0.3167090646356251 1.3833647506825326
+Epoch:40	TrainLoss:0.213	ValLoss:0.227	mAP:0.330	CV:0.166
+0.19855491482810486 0.18210718127276315 0.6755484195986614
+Epoch:45	TrainLoss:0.199	ValLoss:0.199	mAP:0.340	CV:0.153
+0.18934209213422012 0.12353599705958516 0.320635676272516
+Epoch:50	TrainLoss:0.189	ValLoss:0.186	mAP:0.347	CV:0.145
+EarlyStopping counter: 1 out of 20
+0.16100202751682519 0.09701010717253858 0.1482805918891841
+Epoch:55	TrainLoss:0.161	ValLoss:0.177	mAP:0.351	CV:0.141
+EarlyStopping counter: 1 out of 20
+0.17994474087320264 0.08507874058439015 0.06738806210592987
+Epoch:60	TrainLoss:0.180	ValLoss:0.174	mAP:0.355	CV:0.133
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.16570083233367716 0.07689928251288879 0.03008776064209387
+Epoch:65	TrainLoss:0.166	ValLoss:0.173	mAP:0.358	CV:0.124
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 1 out of 20
+0.18476300627347605 0.07169227945400726 0.0126113270032825
+Epoch:70	TrainLoss:0.185	ValLoss:0.172	mAP:0.358	CV:0.111
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.15995807237638812 0.07042740283250364 0.004871408880490748
+Epoch:75	TrainLoss:0.160	ValLoss:0.172	mAP:0.362	CV:0.111
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+0.16855269242447737 0.06782403622257331 0.0027324934728317454
+Epoch:80	TrainLoss:0.169	ValLoss:0.171	mAP:0.362	CV:0.110
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+0.15718201625304085 0.0670392963282271 0.001958987005882973
+Epoch:85	TrainLoss:0.157	ValLoss:0.171	mAP:0.362	CV:0.123
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.18959665468590822 0.06671390797104407 0.0014771431460411713
+Epoch:90	TrainLoss:0.190	ValLoss:0.171	mAP:0.361	CV:0.121
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.17125486658025163 0.06562293817746852 0.0010733454450313575
+Epoch:95	TrainLoss:0.171	ValLoss:0.170	mAP:0.354	CV:0.396
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+0.15841440290457268 0.06514842920147973 0.0007059604160935092
+Epoch:100	TrainLoss:0.158	ValLoss:0.173	mAP:0.348	CV:0.406
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+0.16863922507906173 0.06469232937028829 0.0003462307939978347
+Epoch:105	TrainLoss:0.169	ValLoss:0.171	mAP:0.360	CV:0.121
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+0.194683598594684 0.0638896271535125 9.081284088948918e-05
+Epoch:110	TrainLoss:0.195	ValLoss:0.175	mAP:0.352	CV:0.400
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+EarlyStopping counter: 20 out of 20
+64 0.36507130482532163 tensor(0.1042, device='cuda:1')
+0.41977315814279215 6.587988604061227 69.95129188943368
+Epoch:5	TrainLoss:0.427	ValLoss:0.551	mAP:0.151	CV:0.371
+0.3456414952785519 3.6896385396604385 49.08972474546315
+Epoch:10	TrainLoss:0.351	ValLoss:0.377	mAP:0.191	CV:0.185
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.3514001840065838 2.3853475306252734 30.515720175397565
+Epoch:15	TrainLoss:0.355	ValLoss:0.363	mAP:0.243	CV:0.152
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.3378758057717725 1.5152871565553991 18.674269595297815
+Epoch:20	TrainLoss:0.340	ValLoss:0.347	mAP:0.266	CV:0.176
+EarlyStopping counter: 1 out of 20
+0.30810555423969155 0.9396742276952799 10.76093621488098
+Epoch:25	TrainLoss:0.309	ValLoss:0.329	mAP:0.267	CV:0.124
+0.2784197882505749 0.829576815799339 5.665321854589628
+Epoch:30	TrainLoss:0.279	ValLoss:0.299	mAP:0.301	CV:0.177
+0.2501117284225657 0.5733721488460876 2.814661483453424
+Epoch:35	TrainLoss:0.250	ValLoss:0.262	mAP:0.320	CV:0.182
+0.3085304299566532 0.3254858505530366 1.3931827817203999
+Epoch:40	TrainLoss:0.309	ValLoss:0.226	mAP:0.327	CV:0.176
+0.2126677540731726 0.18543058201073565 0.6844376102541088
+Epoch:45	TrainLoss:0.213	ValLoss:0.198	mAP:0.339	CV:0.163
+0.17321821302236412 0.12568565396728765 0.32598777510910554
+Epoch:50	TrainLoss:0.173	ValLoss:0.184	mAP:0.346	CV:0.147
+0.21952138977096233 0.09955037173099121 0.15096618391739974
+Epoch:55	TrainLoss:0.220	ValLoss:0.176	mAP:0.352	CV:0.143
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.1546842801986464 0.08592592056687849 0.06840810043999672
+Epoch:60	TrainLoss:0.155	ValLoss:0.175	mAP:0.355	CV:0.139
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.15714337578122042 0.07849378926871144 0.030410186159504464
+Epoch:65	TrainLoss:0.157	ValLoss:0.175	mAP:0.358	CV:0.135
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 1 out of 20
+0.16920235727597166 0.07430803059960346 0.01283444507834123
+Epoch:70	TrainLoss:0.169	ValLoss:0.172	mAP:0.359	CV:0.129
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.17792902905979918 0.07056098182472692 0.005325650225906088
+Epoch:75	TrainLoss:0.178	ValLoss:0.172	mAP:0.360	CV:0.116
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+0.15978138515776186 0.06868027322395964 0.0031923923520714606
+Epoch:80	TrainLoss:0.160	ValLoss:0.171	mAP:0.360	CV:0.127
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+0.17161392409631152 0.06724018926430907 0.0022644213292037367
+Epoch:85	TrainLoss:0.172	ValLoss:0.171	mAP:0.365	CV:0.168
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.15882339404556853 0.06669891329028321 0.001779302112350928
+Epoch:90	TrainLoss:0.159	ValLoss:0.172	mAP:0.361	CV:0.150
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.16916670509299667 0.06621017553831995 0.0014710178324534074
+Epoch:95	TrainLoss:0.169	ValLoss:0.169	mAP:0.359	CV:0.131
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.16353690071993857 0.06630539052939098 0.0011798313514281484
+Epoch:100	TrainLoss:0.164	ValLoss:0.169	mAP:0.356	CV:0.349
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+0.14794947767462485 0.06563053696269021 0.0008957096146211096
+Epoch:105	TrainLoss:0.148	ValLoss:0.171	mAP:0.348	CV:0.388
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+0.2232078794049242 0.06496243129035441 0.0005918045846773117
+Epoch:110	TrainLoss:0.223	ValLoss:0.170	mAP:0.349	CV:0.214
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.17077561089594015 0.06488289361507904 0.00034409322630675113
+Epoch:115	TrainLoss:0.171	ValLoss:0.170	mAP:0.347	CV:0.419
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+0.1663112363644151 0.06581578290134475 0.00010120058796976334
+Epoch:120	TrainLoss:0.166	ValLoss:0.172	mAP:0.355	CV:0.230
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.1771524287535698 0.06764364678109651 1.248653261084069e-05
+Epoch:125	TrainLoss:0.177	ValLoss:0.169	mAP:0.357	CV:0.275
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+0.166492901389387 0.06743310754163011 1.3145605634936924e-06
+Epoch:130	TrainLoss:0.166	ValLoss:0.168	mAP:0.347	CV:0.223
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+0.16374252713841264 0.06921317907956008 1.3145605634968203e-06
+Epoch:135	TrainLoss:0.164	ValLoss:0.170	mAP:0.353	CV:0.252
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+0.1647029438569495 0.07033931897297625 1.3145605635009902e-06
+Epoch:140	TrainLoss:0.165	ValLoss:0.171	mAP:0.344	CV:0.437
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+EarlyStopping counter: 20 out of 20
+64 0.36563422880250984 tensor(0.1111, device='cuda:1')
+0.3808075604655794 7.0804049095419375 71.72764779779607
+Epoch:5	TrainLoss:0.389	ValLoss:0.544	mAP:0.154	CV:0.370
+0.3526599376855459 3.6986142859851845 49.10695410894246
+Epoch:10	TrainLoss:0.358	ValLoss:0.369	mAP:0.221	CV:0.143
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.3488681921620195 2.4078141842931373 30.194322003704162
+Epoch:15	TrainLoss:0.352	ValLoss:0.358	mAP:0.247	CV:0.193
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.3386252549351515 1.5558997030195028 18.394816723184725
+Epoch:20	TrainLoss:0.341	ValLoss:0.349	mAP:0.278	CV:0.108
+EarlyStopping counter: 1 out of 20
+0.30802611140451164 0.9782533224469608 10.57781784155713
+Epoch:25	TrainLoss:0.309	ValLoss:0.328	mAP:0.290	CV:0.123
+0.2863907696730163 0.847215609994132 5.572412379993014
+Epoch:30	TrainLoss:0.287	ValLoss:0.295	mAP:0.312	CV:0.165
+0.25197276109040406 0.594827491788581 2.777265785829461
+Epoch:35	TrainLoss:0.252	ValLoss:0.261	mAP:0.325	CV:0.174
+0.22009816106661687 0.3371936511537076 1.3725139980421421
+Epoch:40	TrainLoss:0.220	ValLoss:0.226	mAP:0.333	CV:0.174
+0.18751396641311469 0.19244810078597163 0.6729065625339824
+Epoch:45	TrainLoss:0.188	ValLoss:0.200	mAP:0.341	CV:0.163
+0.18790101963517358 0.12743101054089495 0.3198761076208186
+Epoch:50	TrainLoss:0.188	ValLoss:0.185	mAP:0.348	CV:0.153
+EarlyStopping counter: 1 out of 20
+0.18374760740847512 0.09986162705668693 0.14824526544502367
+Epoch:55	TrainLoss:0.184	ValLoss:0.179	mAP:0.351	CV:0.147
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.18134024493051687 0.08610031494252086 0.06758405326153648
+Epoch:60	TrainLoss:0.181	ValLoss:0.173	mAP:0.355	CV:0.139
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.1761340415450008 0.07859100192133484 0.030384609674481367
+Epoch:65	TrainLoss:0.176	ValLoss:0.173	mAP:0.358	CV:0.125
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.16835835606724187 0.07335789975600461 0.013129145381785992
+Epoch:70	TrainLoss:0.168	ValLoss:0.173	mAP:0.358	CV:0.119
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+0.19855015221791883 0.07024114158218717 0.005477521075878914
+Epoch:75	TrainLoss:0.199	ValLoss:0.170	mAP:0.360	CV:0.122
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.15336780785858217 0.06816856200062121 0.0034991074928955516
+Epoch:80	TrainLoss:0.153	ValLoss:0.173	mAP:0.361	CV:0.122
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.1792354337625287 0.0672762566958487 0.0025695593991168423
+Epoch:85	TrainLoss:0.179	ValLoss:0.170	mAP:0.364	CV:0.129
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.19274894022117936 0.0661102772150904 0.0020328627689559613
+Epoch:90	TrainLoss:0.193	ValLoss:0.171	mAP:0.362	CV:0.134
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+0.1588478687546604 0.06605887351555623 0.0016913184698693715
+Epoch:95	TrainLoss:0.159	ValLoss:0.169	mAP:0.359	CV:0.151
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.17119592207056833 0.0648881533644494 0.0013969479160194321
+Epoch:100	TrainLoss:0.171	ValLoss:0.171	mAP:0.355	CV:0.250
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+0.1715837811849212 0.064888915399378 0.0010856955209195601
+Epoch:105	TrainLoss:0.172	ValLoss:0.174	mAP:0.353	CV:0.182
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+0.19124807010432995 0.06440845294142736 0.0007990349531543669
+Epoch:110	TrainLoss:0.191	ValLoss:0.171	mAP:0.350	CV:0.371
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+0.1614523747697754 0.06589643746792687 0.0005345436882564618
+Epoch:115	TrainLoss:0.161	ValLoss:0.171	mAP:0.347	CV:0.191
+EarlyStopping counter: 20 out of 20
+64 0.3644507129938891 tensor(0.0989, device='cuda:1')
+0.5005577892323879 7.133250455298152 69.46154106212553
+Epoch:5	TrainLoss:0.508	ValLoss:0.557	mAP:0.151	CV:0.375
+0.34894309779165533 3.736798507785862 48.849393858961186
+Epoch:10	TrainLoss:0.354	ValLoss:0.366	mAP:0.194	CV:0.161
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.34665100626844003 2.4501328227362036 30.431800972272207
+Epoch:15	TrainLoss:0.350	ValLoss:0.365	mAP:0.253	CV:0.163
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 1 out of 20
+0.34155050122315317 1.5879280228034685 18.509726622164674
+Epoch:20	TrainLoss:0.344	ValLoss:0.346	mAP:0.273	CV:0.165
+EarlyStopping counter: 1 out of 20
+0.31279943417049244 0.9825891147694396 10.646531031465715
+Epoch:25	TrainLoss:0.314	ValLoss:0.326	mAP:0.257	CV:0.124
+EarlyStopping counter: 1 out of 20
+0.28956939054308944 0.7883070386290474 5.647196417327277
+Epoch:30	TrainLoss:0.290	ValLoss:0.294	mAP:0.309	CV:0.152
+EarlyStopping counter: 1 out of 20
+0.2570004086088244 0.5443561399642088 2.8304504834288275
+Epoch:35	TrainLoss:0.257	ValLoss:0.256	mAP:0.323	CV:0.169
+0.2139988375063504 0.318005961003951 1.4076245578556126
+Epoch:40	TrainLoss:0.214	ValLoss:0.227	mAP:0.330	CV:0.163
+0.20783782903008655 0.18795644868281644 0.6926739635657356
+Epoch:45	TrainLoss:0.208	ValLoss:0.199	mAP:0.338	CV:0.151
+0.17392341719689872 0.12858594512613597 0.3303720107138149
+Epoch:50	TrainLoss:0.174	ValLoss:0.185	mAP:0.347	CV:0.143
+EarlyStopping counter: 1 out of 20
+0.17565752926596445 0.10302118483963732 0.15402693394220401
+Epoch:55	TrainLoss:0.176	ValLoss:0.176	mAP:0.352	CV:0.135
+EarlyStopping counter: 1 out of 20
+0.16120303521912985 0.08992241348337471 0.0710809395817681
+Epoch:60	TrainLoss:0.161	ValLoss:0.172	mAP:0.355	CV:0.125
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.18638084012940948 0.08107477045840351 0.03289274177764469
+Epoch:65	TrainLoss:0.186	ValLoss:0.172	mAP:0.357	CV:0.118
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.15638301863465962 0.07666691465614638 0.015018838716341947
+Epoch:70	TrainLoss:0.156	ValLoss:0.173	mAP:0.359	CV:0.115
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 1 out of 20
+0.20444923604574491 0.07302453996499327 0.006819900529714151
+Epoch:75	TrainLoss:0.204	ValLoss:0.170	mAP:0.361	CV:0.110
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+0.17892491570238298 0.07056740935904071 0.00420891781868573
+Epoch:80	TrainLoss:0.179	ValLoss:0.169	mAP:0.363	CV:0.136
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+0.1696062774490498 0.06900092585413817 0.0031720488299377208
+Epoch:85	TrainLoss:0.170	ValLoss:0.172	mAP:0.363	CV:0.118
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+0.17220976091435752 0.06860685960548765 0.0023378087234849874
+Epoch:90	TrainLoss:0.172	ValLoss:0.171	mAP:0.361	CV:0.123
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.18021225903935106 0.06705579850485671 0.0018003200272432435
+Epoch:95	TrainLoss:0.180	ValLoss:0.171	mAP:0.364	CV:0.162
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+0.1615148405455535 0.06643235654282054 0.0014240174011857073
+Epoch:100	TrainLoss:0.162	ValLoss:0.169	mAP:0.360	CV:0.174
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+0.18095753249183705 0.06608678969343844 0.0011229422567777068
+Epoch:105	TrainLoss:0.181	ValLoss:0.170	mAP:0.358	CV:0.220
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+0.17837632942767048 0.06536312982636916 0.0007917217580716181
+Epoch:110	TrainLoss:0.178	ValLoss:0.168	mAP:0.352	CV:0.435
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.1714411289861593 0.0655582687982878 0.0005020364656294417
+Epoch:115	TrainLoss:0.171	ValLoss:0.171	mAP:0.352	CV:0.211
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.1753442912180863 0.06518027222472482 0.0002456622226855762
+Epoch:120	TrainLoss:0.175	ValLoss:0.169	mAP:0.351	CV:0.434
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+0.1580422009651105 0.06588876036580095 2.588892613566599e-05
+Epoch:125	TrainLoss:0.158	ValLoss:0.170	mAP:0.357	CV:0.341
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+0.1565107041887559 0.06718449611268856 1.0475475278986095e-05
+Epoch:130	TrainLoss:0.157	ValLoss:0.167	mAP:0.348	CV:0.334
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+0.17116201489227703 0.06775507860904474 1.3145605634957773e-06
+Epoch:135	TrainLoss:0.171	ValLoss:0.172	mAP:0.350	CV:0.237
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+EarlyStopping counter: 20 out of 20
+64 0.36431508633857984 tensor(0.0953, device='cuda:1')
+0.5222514432504368 7.408342809002198 75.08646963451505
+Epoch:5	TrainLoss:0.531	ValLoss:0.516	mAP:0.145	CV:0.363
+0.5145070707553656 3.64080566210411 49.68686613095635
+Epoch:10	TrainLoss:0.520	ValLoss:0.366	mAP:0.226	CV:0.175
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.3516425433066032 2.4180396015149763 30.5041615835938
+Epoch:15	TrainLoss:0.355	ValLoss:0.357	mAP:0.283	CV:0.186
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.48803127259663714 1.5472661931301148 18.673260433339877
+Epoch:20	TrainLoss:0.490	ValLoss:0.347	mAP:0.268	CV:0.134
+EarlyStopping counter: 1 out of 20
+0.3176935412633553 0.9698929867301878 10.76313652636382
+Epoch:25	TrainLoss:0.319	ValLoss:0.329	mAP:0.253	CV:0.199
+0.28485483159746294 0.8176050368645511 5.6995080839233925
+Epoch:30	TrainLoss:0.286	ValLoss:0.301	mAP:0.314	CV:0.171
+0.23824818600380013 0.5693991134845033 2.833280663304244
+Epoch:35	TrainLoss:0.239	ValLoss:0.261	mAP:0.318	CV:0.189
+0.2159740817866563 0.3232321352748866 1.4018465725041889
+Epoch:40	TrainLoss:0.216	ValLoss:0.228	mAP:0.325	CV:0.194
+0.18057369941647863 0.18502021076298628 0.6912215778937149
+Epoch:45	TrainLoss:0.181	ValLoss:0.202	mAP:0.337	CV:0.184
+0.23313346011052224 0.12400441380842601 0.3305765124293597
+Epoch:50	TrainLoss:0.233	ValLoss:0.184	mAP:0.344	CV:0.167
+EarlyStopping counter: 1 out of 20
+0.16727870521800678 0.09808011589811323 0.15360323557849204
+Epoch:55	TrainLoss:0.167	ValLoss:0.177	mAP:0.350	CV:0.157
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.17180551895508211 0.08459826552529198 0.06970421440327301
+Epoch:60	TrainLoss:0.172	ValLoss:0.175	mAP:0.354	CV:0.139
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.1579125233027096 0.07753919155425987 0.031064835248324176
+Epoch:65	TrainLoss:0.158	ValLoss:0.174	mAP:0.356	CV:0.130
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.16260116146255052 0.07311727866079001 0.013111556851620881
+Epoch:70	TrainLoss:0.163	ValLoss:0.172	mAP:0.358	CV:0.119
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+0.16673548119854797 0.07000520220853376 0.004961705015912594
+Epoch:75	TrainLoss:0.167	ValLoss:0.171	mAP:0.359	CV:0.119
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.17047575949672245 0.06870352295592758 0.0026675927806413227
+Epoch:80	TrainLoss:0.170	ValLoss:0.170	mAP:0.361	CV:0.109
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.15585924077879618 0.06689289073301985 0.0019337218638262321
+Epoch:85	TrainLoss:0.156	ValLoss:0.173	mAP:0.362	CV:0.209
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+0.16144072658528255 0.0667257751961332 0.001439835287600411
+Epoch:90	TrainLoss:0.161	ValLoss:0.172	mAP:0.363	CV:0.145
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+0.15461880211875983 0.06546429392271942 0.0010668496372863256
+Epoch:95	TrainLoss:0.155	ValLoss:0.175	mAP:0.361	CV:0.219
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+0.16303215909538774 0.06492486500759691 0.0007180456503861621
+Epoch:100	TrainLoss:0.163	ValLoss:0.172	mAP:0.354	CV:0.171
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+0.16510294224839278 0.06481346648519656 0.00039860141468819004
+Epoch:105	TrainLoss:0.165	ValLoss:0.172	mAP:0.350	CV:0.389
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+0.1738441508207681 0.06603936909175448 0.0001827176622377868
+Epoch:110	TrainLoss:0.174	ValLoss:0.169	mAP:0.354	CV:0.178
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+0.1744459396413174 0.06678476778895355 6.793632628639387e-05
+Epoch:115	TrainLoss:0.174	ValLoss:0.169	mAP:0.355	CV:0.178
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+EarlyStopping counter: 20 out of 20
+64 0.364155272467143 tensor(0.1090, device='cuda:1')
+0.46782059916947577 6.851743474389731 71.40973266074904
+Epoch:5	TrainLoss:0.476	ValLoss:0.547	mAP:0.152	CV:0.358
+0.3456074284521836 3.5494390338159016 49.70967906495882
+Epoch:10	TrainLoss:0.351	ValLoss:0.368	mAP:0.203	CV:0.172
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 1 out of 20
+0.33262496489846616 2.3004940154205458 30.55531625670764
+Epoch:15	TrainLoss:0.336	ValLoss:0.361	mAP:0.257	CV:0.141
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.3292723487119903 1.4718944597312622 18.67609645563356
+Epoch:20	TrainLoss:0.331	ValLoss:0.352	mAP:0.275	CV:0.202
+EarlyStopping counter: 1 out of 20
+0.3199896251981111 0.916176242722187 10.777165890766101
+Epoch:25	TrainLoss:0.321	ValLoss:0.329	mAP:0.279	CV:0.143
+0.28182150569859615 0.7902726042306593 5.70287551053781
+Epoch:30	TrainLoss:0.282	ValLoss:0.297	mAP:0.298	CV:0.173
+0.2565008408908572 0.5540745480200878 2.849486309286652
+Epoch:35	TrainLoss:0.257	ValLoss:0.264	mAP:0.317	CV:0.178
+0.30290573615810934 0.3169377191961424 1.4134040256216578
+Epoch:40	TrainLoss:0.303	ValLoss:0.228	mAP:0.325	CV:0.182
+0.20151750426575116 0.1820077147373621 0.6961873996224577
+Epoch:45	TrainLoss:0.202	ValLoss:0.203	mAP:0.339	CV:0.169
+0.18014476907781993 0.12352883603223229 0.3325757584935169
+Epoch:50	TrainLoss:0.180	ValLoss:0.184	mAP:0.345	CV:0.149
+EarlyStopping counter: 1 out of 20
+0.17272970152344835 0.097016085541417 0.15427296074062505
+Epoch:55	TrainLoss:0.173	ValLoss:0.178	mAP:0.352	CV:0.143
+EarlyStopping counter: 1 out of 20
+0.18402589095626706 0.0841797487566984 0.06997713899104957
+Epoch:60	TrainLoss:0.184	ValLoss:0.173	mAP:0.354	CV:0.129
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.20446803306672184 0.07682881547465571 0.031170542182691434
+Epoch:65	TrainLoss:0.204	ValLoss:0.173	mAP:0.358	CV:0.123
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.16278069005488777 0.07220624916601043 0.013175448360821802
+Epoch:70	TrainLoss:0.163	ValLoss:0.171	mAP:0.359	CV:0.113
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 1 out of 20
+0.16560422866012883 0.07024528194370415 0.005293592999678791
+Epoch:75	TrainLoss:0.166	ValLoss:0.172	mAP:0.360	CV:0.108
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 1 out of 20
+0.16613620111751082 0.06818613121268766 0.0030297970088332443
+Epoch:80	TrainLoss:0.166	ValLoss:0.172	mAP:0.361	CV:0.133
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+0.16009464754871663 0.06690330787534624 0.0022543404053723378
+Epoch:85	TrainLoss:0.160	ValLoss:0.170	mAP:0.364	CV:0.126
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.151322453470444 0.0667449129705658 0.0017959397930899334
+Epoch:90	TrainLoss:0.151	ValLoss:0.170	mAP:0.362	CV:0.138
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.1637369103089572 0.06594726152938848 0.0013814950584464165
+Epoch:95	TrainLoss:0.164	ValLoss:0.171	mAP:0.362	CV:0.298
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.18143341725065376 0.06581637328324969 0.0011136508117123786
+Epoch:100	TrainLoss:0.181	ValLoss:0.169	mAP:0.357	CV:0.236
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+0.20157927089994843 0.06578440103298021 0.0008202233313608672
+Epoch:105	TrainLoss:0.202	ValLoss:0.170	mAP:0.358	CV:0.154
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+0.17224818831877053 0.06445271853840398 0.0005291902553458917
+Epoch:110	TrainLoss:0.172	ValLoss:0.171	mAP:0.363	CV:0.135
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+0.16754426008911225 0.0649548726032361 0.0002838780687575416
+Epoch:115	TrainLoss:0.168	ValLoss:0.171	mAP:0.352	CV:0.337
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+EarlyStopping counter: 20 out of 20
+64 0.3641038512430225 tensor(0.1062, device='cuda:1')
+0.4017352446310914 6.979790113520449 73.27610006254226
+Epoch:5	TrainLoss:0.410	ValLoss:0.521	mAP:0.163	CV:0.354
+0.35038478916461646 3.6014171579289043 49.0195175377464
+Epoch:10	TrainLoss:0.356	ValLoss:0.369	mAP:0.260	CV:0.204
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 1 out of 20
+0.33819759533550287 2.3338511487059557 30.117019370055313
+Epoch:15	TrainLoss:0.341	ValLoss:0.370	mAP:0.274	CV:0.174
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 1 out of 20
+0.4976781380899592 1.499697492147547 18.442095051327914
+Epoch:20	TrainLoss:0.500	ValLoss:0.347	mAP:0.259	CV:0.125
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.31279918517778166 0.9249958698162647 10.637134311153236
+Epoch:25	TrainLoss:0.314	ValLoss:0.327	mAP:0.270	CV:0.124
+0.2913316509244619 0.8244263468085072 5.586745884570302
+Epoch:30	TrainLoss:0.292	ValLoss:0.296	mAP:0.305	CV:0.169
+0.25716917558948954 0.5901989806359924 2.774849918198428
+Epoch:35	TrainLoss:0.258	ValLoss:0.260	mAP:0.323	CV:0.166
+0.22176596126551423 0.33455592847711324 1.3721813252169806
+Epoch:40	TrainLoss:0.222	ValLoss:0.226	mAP:0.331	CV:0.168
+0.2554645396032623 0.18913454547516706 0.6727340958865576
+Epoch:45	TrainLoss:0.256	ValLoss:0.199	mAP:0.341	CV:0.160
+0.1807094441976944 0.1262946766329852 0.32053627908202237
+Epoch:50	TrainLoss:0.181	ValLoss:0.187	mAP:0.348	CV:0.147
+0.1852224226222153 0.09800689888043422 0.14849174173754243
+Epoch:55	TrainLoss:0.185	ValLoss:0.179	mAP:0.350	CV:0.139
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+0.1624177270141655 0.08452008336355787 0.06745686565735295
+Epoch:60	TrainLoss:0.162	ValLoss:0.173	mAP:0.355	CV:0.133
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.1673127638225418 0.07743214877097562 0.03007284228481378
+Epoch:65	TrainLoss:0.167	ValLoss:0.171	mAP:0.357	CV:0.122
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.14784831393895956 0.0731327001009356 0.012744207245797994
+Epoch:70	TrainLoss:0.148	ValLoss:0.171	mAP:0.358	CV:0.121
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+0.16394449896329918 0.06973774827051195 0.005137404606754619
+Epoch:75	TrainLoss:0.164	ValLoss:0.171	mAP:0.359	CV:0.117
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+0.17675109766761615 0.06839994027493809 0.002936411502391574
+Epoch:80	TrainLoss:0.177	ValLoss:0.171	mAP:0.361	CV:0.115
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+EarlyStopping counter: 10 out of 20
+0.17177182474827263 0.06686193633257302 0.002072551855390894
+Epoch:85	TrainLoss:0.172	ValLoss:0.172	mAP:0.363	CV:0.120
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+EarlyStopping counter: 15 out of 20
+0.1645857960052116 0.0656657620550138 0.0016638304676520209
+Epoch:90	TrainLoss:0.165	ValLoss:0.171	mAP:0.362	CV:0.131
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+EarlyStopping counter: 20 out of 20
+64 0.3632142869748784 tensor(0.0988, device='cuda:1')
+0.7262712905505839 6.488027413825931 70.45462100618995
+Epoch:5	TrainLoss:0.734	ValLoss:0.544	mAP:0.159	CV:0.360
+0.3571295725060685 3.6104637884443918 48.977653091306955
+Epoch:10	TrainLoss:0.362	ValLoss:0.374	mAP:0.207	CV:0.169
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.34223581744681064 2.3678459509867364 30.128485975655263
+Epoch:15	TrainLoss:0.345	ValLoss:0.364	mAP:0.263	CV:0.118
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.3320176932991592 1.5077911455742823 18.394562623842
+Epoch:20	TrainLoss:0.334	ValLoss:0.349	mAP:0.260	CV:0.119
+0.3170002685878872 0.9372374631180139 10.537662243263163
+Epoch:25	TrainLoss:0.318	ValLoss:0.328	mAP:0.279	CV:0.162
+EarlyStopping counter: 1 out of 20
+0.28588740021510195 0.7797832016205062 5.5279351111979285
+Epoch:30	TrainLoss:0.287	ValLoss:0.298	mAP:0.312	CV:0.169
+0.2458094625897586 0.5396121173206888 2.7399652402281784
+Epoch:35	TrainLoss:0.246	ValLoss:0.264	mAP:0.325	CV:0.180
+0.21783514597265485 0.3095346691348818 1.3521152215755603
+Epoch:40	TrainLoss:0.218	ValLoss:0.227	mAP:0.331	CV:0.174
+0.1913770143593835 0.1793163744673227 0.6627199150250552
+Epoch:45	TrainLoss:0.191	ValLoss:0.202	mAP:0.340	CV:0.171
+0.1766228249530124 0.1214447270798438 0.3152736389622076
+Epoch:50	TrainLoss:0.177	ValLoss:0.185	mAP:0.347	CV:0.159
+0.16700373096250654 0.09637537686606218 0.1463031884828458
+Epoch:55	TrainLoss:0.167	ValLoss:0.177	mAP:0.352	CV:0.139
+EarlyStopping counter: 1 out of 20
+0.22635510916038665 0.08346775789212782 0.06682663640874151
+Epoch:60	TrainLoss:0.226	ValLoss:0.173	mAP:0.355	CV:0.131
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.1826620705342646 0.07668670828098079 0.03008562617479402
+Epoch:65	TrainLoss:0.183	ValLoss:0.174	mAP:0.357	CV:0.126
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.16222988930896298 0.07210831657153283 0.013029288069549857
+Epoch:70	TrainLoss:0.162	ValLoss:0.170	mAP:0.358	CV:0.123
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.15693955374823396 0.06933895716335575 0.005254241327801968
+Epoch:75	TrainLoss:0.157	ValLoss:0.170	mAP:0.360	CV:0.111
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.15902185708805808 0.06776706720654943 0.002988738504046437
+Epoch:80	TrainLoss:0.159	ValLoss:0.172	mAP:0.362	CV:0.111
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.18384502128493585 0.06724335375016782 0.0020722832279544442
+Epoch:85	TrainLoss:0.184	ValLoss:0.171	mAP:0.363	CV:0.162
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+0.16929643997066496 0.06538406397735233 0.0015910496101006978
+Epoch:90	TrainLoss:0.169	ValLoss:0.173	mAP:0.365	CV:0.180
+EarlyStopping counter: 4 out of 20
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+0.16444549144855153 0.06547845176090343 0.0012134902872310046
+Epoch:95	TrainLoss:0.164	ValLoss:0.169	mAP:0.358	CV:0.137
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.1773648376625508 0.06507711686179045 0.0008214987921041329
+Epoch:100	TrainLoss:0.177	ValLoss:0.170	mAP:0.359	CV:0.183
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+0.17002106253052676 0.06448150692879831 0.0005160975045783931
+Epoch:105	TrainLoss:0.170	ValLoss:0.169	mAP:0.354	CV:0.257
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+0.16530971900131372 0.06511513110983902 0.00025508598671141543
+Epoch:110	TrainLoss:0.165	ValLoss:0.172	mAP:0.348	CV:0.313
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+0.17456122180476366 0.06581646546228141 5.148089461271231e-05
+Epoch:115	TrainLoss:0.175	ValLoss:0.169	mAP:0.351	CV:0.362
+EarlyStopping counter: 1 out of 20
+EarlyStopping counter: 2 out of 20
+EarlyStopping counter: 3 out of 20
+EarlyStopping counter: 4 out of 20
+0.2023885959951386 0.0675352371569944 3.1526797319982704e-05
+Epoch:120	TrainLoss:0.202	ValLoss:0.173	mAP:0.349	CV:0.295
+EarlyStopping counter: 5 out of 20
+EarlyStopping counter: 6 out of 20
+EarlyStopping counter: 7 out of 20
+EarlyStopping counter: 8 out of 20
+EarlyStopping counter: 9 out of 20
+0.1737338338000144 0.06867790202063626 1.6041467291615468e-05
+Epoch:125	TrainLoss:0.174	ValLoss:0.170	mAP:0.348	CV:0.416
+EarlyStopping counter: 10 out of 20
+EarlyStopping counter: 11 out of 20
+EarlyStopping counter: 12 out of 20
+EarlyStopping counter: 13 out of 20
+EarlyStopping counter: 14 out of 20
+0.1557551525018514 0.07053951016445538 1.3145605634947349e-06
+Epoch:130	TrainLoss:0.156	ValLoss:0.170	mAP:0.352	CV:0.264
+EarlyStopping counter: 15 out of 20
+EarlyStopping counter: 16 out of 20
+EarlyStopping counter: 17 out of 20
+EarlyStopping counter: 18 out of 20
+EarlyStopping counter: 19 out of 20
+0.17170909760159805 0.07084598893136958 1.3145605634926499e-06
+Epoch:135	TrainLoss:0.172	ValLoss:0.169	mAP:0.339	CV:0.446
+EarlyStopping counter: 20 out of 20
+64 0.364712661456203 tensor(0.1055, device='cuda:1')
