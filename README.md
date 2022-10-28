@@ -13,19 +13,28 @@
 
 ## HEX graph example
 
-HMI-toy-example.ipynb provides a toy example of HMI for embedding HEX graph.
-
-Given the HEX graph (left), you will obtain the output label embeddings (right):
-
+Run HMI-toy-example.ipynb, see the input (left) and output (right)
 
 Hierarchy and exclusion (HEX) graph             |  Learning hyperbolic label embeddings
 :-------------------------:|:-------------------------:
 ![](./data/imgs/hex.png)   |  ![](./data/imgs/labelembedding.png)
 
 
-## Multi-label classification
+## Multi-label prediction
 
 To run HMI on "derisi_FUN" dataset, run the following scripts:
 
-nohup python run.py --dataset derisi_FUN > logs/derisi_FUN.txt 2>&1 &
+python run.py --dataset derisi_FUN > logs/derisi_FUN.txt
 
+## Citation
+
+If you find this code useful, please cite the following paper: 
+```
+@inproceedings{xiong22_neurips_2,
+  title = {Hyperbolic Embedding Inference for Structured Multi-Label Prediction},
+  author = {Xiong, Bo and Cochez, M. and Nayyeri, Mojtaba and Staab, Steffen},
+  year = {2022},
+  pages = {},
+  booktitle = {Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS)}
+}
+```
