@@ -20,7 +20,7 @@ Given the HEX graph (left), you will obtain the output label embeddings (right):
 
 Hierarchy and exclusion (HEX) graph             |  Learning hyperbolic label embeddings
 :-------------------------:|:-------------------------:
-![](./imgs/hex.png)   |  ![](./imgs/labelembedding.png)
+![](./data/imgs/hex.png)   |  ![](./data/imgs/labelembedding.png)
 
 
 ## Multi-label classification
