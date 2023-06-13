@@ -100,7 +100,7 @@ class HMI(nn.Module):
     def classifier(self,X):
         point_a = X.unsqueeze(1).expand(-1, self.label_emb.shape[0], -1) 
         point_b = self.label_emb.expand_as(point_a)
-        logits = self.membership(point_a,point_b,dim=2).squeeze(2)
+        logits = self.calculate_logit(point_a,point_b,dim=2).squeeze(2)
         return logits
     
     def forward(self, X,implication,exclusion):
@@ -146,11 +146,29 @@ class HMI(nn.Module):
         disjointedness = center_dist - (radius_a + radius_b)
         return disjointedness
     
-    def membership(self, point_a, point_b,dim=-1):
-        center_a = point_a
+    
+    def insideness(self, point_a, point_b,dim=-1):
+        point_a_dist = torch.norm(point_a, p=2, dim=dim, keepdim=True)
         point_b_dist = torch.norm(point_b, p=2, dim=dim, keepdim=True)
+        radius_a = (1 - point_a_dist**2 )/ (2*point_a_dist )
         radius_b = (1 - point_b_dist**2 )/ (2*point_b_dist )
+        center_a = point_a*(1 + radius_a/point_a_dist)
         center_b = point_b*(1 + radius_b/point_b_dist)
         center_dist = torch.norm(center_a-center_b,p=2,dim=dim,keepdim=True)
-        membership =  radius_b - center_dist
-        return membership
+        insideness =  (radius_b - radius_a) - center_dist
+        return insideness
+    
+    def disjointedness(self, point_a, point_b,dim=-1):
+        point_a_dist = torch.norm(point_a, p=2, dim=dim, keepdim=True)
+        point_b_dist = torch.norm(point_b, p=2, dim=dim, keepdim=True)
+        radius_a = (1 - point_a_dist**2 )/ (2*point_a_dist )
+        radius_b = (1 - point_b_dist**2 )/ (2*point_b_dist )
+        center_a = point_a*(1 + radius_a/point_a_dist)
+        center_b = point_b*(1 + radius_b/point_b_dist)
+        center_dist = torch.norm(center_a-center_b,p=2,dim=dim,keepdim=True)
+        disjointedness = center_dist - (radius_a + radius_b)
+        return disjointedness
+    
+    def calculate_logit(self, points, label_emb,dim=-1):
+        logit = self.insideness(points,label_emb) - self.disjointedness(points,label_emb)
+        return logit
