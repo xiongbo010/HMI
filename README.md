@@ -1,7 +1,6 @@
 
 ## PyTorch implementation of **Hyperbolic Embedding Inference for Structured Multi-Label Prediction (NeurIPS'22)**
 [![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--3988-d45815.svg)](https://doi.org/10.18419/darus-3988)
-
 [![Python 3.8](https://img.shields.io/badge/Python-3.8-2d618c?logo=python)](https://docs.python.org/3.8/)
 [![PyTorch](https://img.shields.io/badge/Made%20with-PyTorch-ee4c2c?logo=pytorch)](https://pytorch.org/docs/stable/index.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
